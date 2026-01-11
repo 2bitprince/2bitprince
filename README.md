@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is <strong>Prince Patel</strong> and I'm a Software Engineer from the Beautiful Country INDIA.</h1>
+<h1 align="center">Hi 👋! My name is <strong>Prince Patel</strong> and I'm a Software Engineer.</h1>
 
 ###
 
